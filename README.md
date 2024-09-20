@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silveirajvm
-- 👀 I’m interested in cartography and geograph
-- 🌱 I’m currently learning Python, Lua and R
+- 👀 I’m interested in cartography and remote sensing
+- 🌱 I’m currently learning Python, Lua and Ruby
 
 <!---
 silveirajvm/silveirajvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
